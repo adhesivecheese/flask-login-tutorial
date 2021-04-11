@@ -6,6 +6,7 @@ Code from [Anthony Herbert's Digitalocean article "How To Add Authentication to 
 * remove extraneous spaces around <a> tags in the template documents
 * reorganization of the navbar links in step 10 to prevent the need for multiple is_authenticated ifs
 
+Each step is a seperate branch, with code appearing as it should at the end of each step; the main branch is the finished tutorial, plus the addition of `requirements.txt` to install dependancies through pip.
 
 ## Step 6 Changes
 
